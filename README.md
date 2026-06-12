@@ -1,6 +1,3 @@
-Copie e cole o código abaixo no seu `README.md` do perfil do GitHub (substitua `SEU_USUARIO` pelo seu username do GitHub):
-
-````md
 <div align="center">
 
 # 👋 Olá, eu sou Daniel Cardoso
@@ -35,7 +32,6 @@ Paixões:
   - Tecnologia
   - Desenvolvimento de Software
   - Marketing Digital
-````
 
 Sou um profissional de Marketing que descobriu uma nova paixão no mundo da programação.
 
@@ -43,63 +39,12 @@ Recentemente concluí minha formação em Python e estou construindo meus própr
 
 Atualmente utilizo o GitHub para documentar minha jornada, compartilhar estudos e desenvolver projetos cada vez mais desafiadores.
 
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,js" />
-
-</div>
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Gráfico de Atividades
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-## 💻 Atualmente
-
-```python
+🛠️ Tecnologias & Ferramentas
+📊 Estatísticas GitHub
+🔥 Sequência de Contribuições
+📈 Gráfico de Atividades
+🏆 Conquistas
+💻 Atualmente
 class DanielCardoso:
 
     nickname = "D.Side"
@@ -128,45 +73,15 @@ class DanielCardoso:
         "evoluir como desenvolvedor "
         "e compartilhar conhecimento."
     )
-```
+🎯 Objetivos para 2026
+✅ Concluir formação em Python
+🚀 Publicar projetos próprios
+📚 Aprender novas tecnologias
+💼 Unir Marketing + Tecnologia
+🌎 Construir um portfólio forte no GitHub
+🌟 Frase que me representa
 
----
+"Criatividade para comunicar. Tecnologia para construir."
 
-## 🎯 Objetivos para 2026
-
-* ✅ Concluir formação em Python
-* 🚀 Publicar projetos próprios
-* 📚 Aprender novas tecnologias
-* 💼 Unir Marketing + Tecnologia
-* 🌎 Construir um portfólio forte no GitHub
-
----
-
-## 🌟 Frase que me representa
-
-> "Criatividade para comunicar. Tecnologia para construir."
-
----
-
-<div align="center">
-
-### 🚀 Em constante evolução.
-
-### Obrigado pela visita!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-
-
-# @@@@@@@         @@@@@@   @@@  @@@@@@@   @@@@@@@@ 
-# @@@@@@@@       @@@@@@@   @@@  @@@@@@@@  @@@@@@@@ 
-# @@!  @@@       !@@       @@!  @@!  @@@  @@!      
-# !@!  @!@       !@!       !@!  !@!  @!@  !@!      
-# @!@  !@!       !!@@!!    !!@  @!@  !@!  @!!!:!   
-# !@!  !!!        !!@!!!   !!!  !@!  !!!  !!!!!:   
-# !!:  !!!            !:!  !!:  !!:  !!!  !!:      
-# :!:  !:!  :!:      !:!   :!:  :!:  !:!  :!:      
-#  :::: ::  :::  :::: ::    ::   :::: ::   :: :::: 
-# :: :  :   :::  :: : :    :    :: :  :   : :: ::  
-
-</div>
-```
+🚀 Em constante evolução.
+Obrigado pela visita!
